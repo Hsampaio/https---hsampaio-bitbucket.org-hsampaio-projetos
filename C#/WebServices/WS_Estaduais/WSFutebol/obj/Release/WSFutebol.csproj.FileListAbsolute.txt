@@ -1,0 +1,32 @@
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\bin\WSFutebol.dll.config
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\bin\WSFutebol.dll
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\bin\WSFutebol.pdb
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\obj\Release\WSFutebol.csprojResolveAssemblyReference.cache
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\obj\Release\WSFutebol.dll
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\obj\Release\WSFutebol.pdb
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\bin\Newtonsoft.Json.dll
+C:\Users\Helton-PC\Documents\Visual Studio 2012\Projects\WSFutebol\WSFutebol\bin\MySql.Data.dll
+F:\WSFutebol\WSFutebol\bin\WSFutebol.dll.config
+F:\WSFutebol\WSFutebol\bin\WSFutebol.dll
+F:\WSFutebol\WSFutebol\bin\WSFutebol.pdb
+F:\WSFutebol\WSFutebol\bin\MySql.Data.dll
+F:\WSFutebol\WSFutebol\bin\Newtonsoft.Json.dll
+F:\WSFutebol\WSFutebol\obj\Release\WSFutebol.csprojResolveAssemblyReference.cache
+F:\WSFutebol\WSFutebol\obj\Release\WSFutebol.dll
+F:\WSFutebol\WSFutebol\obj\Release\WSFutebol.pdb
+C:\C#\WS_Estaduais\WSFutebol\bin\WSFutebol.dll.config
+C:\C#\WS_Estaduais\WSFutebol\bin\WSFutebol.dll
+C:\C#\WS_Estaduais\WSFutebol\bin\WSFutebol.pdb
+C:\C#\WS_Estaduais\WSFutebol\obj\Release\WSFutebol.csprojResolveAssemblyReference.cache
+C:\C#\WS_Estaduais\WSFutebol\obj\Release\WSFutebol.dll
+C:\C#\WS_Estaduais\WSFutebol\obj\Release\WSFutebol.pdb
+C:\C#\WS_Estaduais\WSFutebol\bin\MySql.Data.dll
+C:\C#\WS_Estaduais\WSFutebol\bin\MySql.Data.xml
+C:\SVN\C#\WS_Estaduais\WSFutebol\bin\WSFutebol.dll.config
+C:\SVN\C#\WS_Estaduais\WSFutebol\bin\WSFutebol.dll
+C:\SVN\C#\WS_Estaduais\WSFutebol\bin\WSFutebol.pdb
+C:\SVN\C#\WS_Estaduais\WSFutebol\bin\MySql.Data.dll
+C:\SVN\C#\WS_Estaduais\WSFutebol\bin\Newtonsoft.Json.dll
+C:\SVN\C#\WS_Estaduais\WSFutebol\obj\Release\WSFutebol.csprojResolveAssemblyReference.cache
+C:\SVN\C#\WS_Estaduais\WSFutebol\obj\Release\WSFutebol.dll
+C:\SVN\C#\WS_Estaduais\WSFutebol\obj\Release\WSFutebol.pdb

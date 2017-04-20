@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYSq8qBFoJEubz2JdUT1z+wAAAAACAAAAAAAQZgAAAAEAACAAAAB9l56Xf/PQYNuUjI7FRQAMKUIhc3Z8/iMlZvbWYJ3aLgAAAAAOgAAAAAIAACAAAAApRU5mywLoJ/A55tpp8swLmVN0V2Tos+d3Kj20uN5twyAAAABHZsIGlUlV3FuKiPizzvGew/P5VgPT0XLr07uRlNwnXUAAAADCOf0BFkdtc8UufkwMdVfkWVqJ+jTz7jqEHtcEwznaOKq/KCDda7phOASB0kKjhFbC4TXgY1xOEuNMwvx/hdyT</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.inaltum.futebol.servicos.ws/WEB</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/17/2016 18:28:04</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/05/2013 12:21:50</publishTime>
+    </File>
+    <File Include="bin/WSFutebol.dll">
+      <publishTime>04/19/2017 14:36:32</publishTime>
+    </File>
+    <File Include="Brasileirao.asmx">
+      <publishTime>04/28/2016 09:47:11</publishTime>
+    </File>
+    <File Include="BrasileiraoB.asmx">
+      <publishTime>03/24/2017 13:26:05</publishTime>
+    </File>
+    <File Include="Futebol.asmx">
+      <publishTime>12/19/2016 11:12:30</publishTime>
+    </File>
+    <File Include="FutebolService.asmx">
+      <publishTime>04/18/2017 14:40:37</publishTime>
+    </File>
+    <File Include="GerarJSON.asmx">
+      <publishTime>04/19/2017 11:16:11</publishTime>
+    </File>
+    <File Include="Service1.asmx">
+      <publishTime>04/28/2016 09:46:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/19/2017 11:21:36</publishTime>
+    </File>
+    <File Include="WebService.asmx">
+      <publishTime>04/18/2017 20:48:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
